@@ -9,3 +9,9 @@ Intuitive Interface: Clean, user-friendly design using CSS.
 Date Validation: Ensures users input a valid date of birth.
 
 Real-time Updates: Uses JavaScript to dynamically display the result.
+
+## 🚀 Getting Started
+Follow these steps to get a copy of the project up and running on your local machine.
+
+Prerequisites
+You only need a modern web browser (like Chrome, Firefox, Safari, or Edge) to run this application.
