@@ -15,3 +15,17 @@ Follow these steps to get a copy of the project up and running on your local mac
 
 Prerequisites
 You only need a modern web browser (like Chrome, Firefox, Safari, or Edge) to run this application.
+
+
+Installation
+Clone the repository:
+
+Bash
+
+git clone https://github.com/YourUsername/age-calculator.git
+Navigate to the project directory:
+
+Bash
+
+cd age-calculator
+Open the file: Simply open the index.html file in your preferred web browser.
