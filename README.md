@@ -65,6 +65,12 @@ Bash
 cd age-calculator
 Open the file: Simply open the index.html file in your preferred web browser.
 
-🛠️ Technology Stack
+## 🛠️ Technology Stack
+
+
+Technology                -	Role		
+HTML5        	           -Structure and content of the application.		
+CSS3	                  -Styling, layout, and visual presentation.		
+JavaScript (Vanilla)    -Core age calculation logic and DOM manipulation.		
 
 
