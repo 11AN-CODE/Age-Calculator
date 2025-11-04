@@ -73,4 +73,8 @@ HTML5        	           -Structure and content of the application.
 CSS3	                  -Styling, layout, and visual presentation.		
 JavaScript (Vanilla)    -Core age calculation logic and DOM manipulation.		
 
+📂 File Structure
+The project follows a standard file structure:
+
+
 
