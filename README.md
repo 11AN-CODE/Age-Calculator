@@ -75,6 +75,12 @@ JavaScript (Vanilla)    -Core age calculation logic and DOM manipulation.
 
 📂 File Structure
 The project follows a standard file structure:
+age-calculator/
+├── index.html       # The main structure of the web page
+├── style.css        # The styling for the web page
+└── script.js        # The JavaScript logic for calculation
+└── README.md        # This file!
+
 
 
 
